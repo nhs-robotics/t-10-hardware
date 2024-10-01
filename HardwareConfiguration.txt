@@ -1,0 +1,4 @@
+name of mechanism
+port 
+motor type/specs (brand, cr or not)
+name on config
