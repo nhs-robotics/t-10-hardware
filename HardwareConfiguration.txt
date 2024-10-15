@@ -2,3 +2,20 @@ name of mechanism
 port 
 motor type/specs (brand, cr or not)
 name on config
+
+Front Left Wheel (Motor #0)
+Control Hub Motor Port 0
+GoBilda 5202 | 312 RPM
+
+Front Right Wheel (Motor #1)
+Control Hub Port 1
+GoBilda 5202 | 312 RPM
+
+Back Left Wheel (Motor #2)
+Control Hub Port 2
+GoBilda 5202 | 312 RPM
+
+Back Right Wheel (Motor #3)
+Control Hub Port 3
+GoBilda 5203 | 312 RPM
+
