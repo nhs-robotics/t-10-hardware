@@ -7,20 +7,29 @@ Name on config
 CONFIG
 
 CONTROL HUB
-Front Left Wheel (Motor #0)
 Motor Port 0
+Front Left Wheel (Motor #0)
 GoBilda 5202 | 312 RPM
 
-Front Right Wheel (Motor #1)
+Encoder Port 0
+Left Odometry Wheel
+
 Motor Port 1
+Front Right Wheel (Motor #1)
 GoBilda 5202 | 312 RPM
 
-Back Left Wheel (Motor #2)
+Encoder Port 1
+Back Odometry Wheel
+
 Motor Port 2
+Back Left Wheel (Motor #2)
 GoBilda 5202 | 312 RPM
 
-Back Right Wheel (Motor #3)
+Encoder Port 2
+Right Odometry Wheel
+
 Motor Port 3
+Back Right Wheel (Motor #3)
 GoBilda 5203 | 312 RPM
 
 EXPANSION HUB
