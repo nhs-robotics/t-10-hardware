@@ -45,3 +45,9 @@ Encoder Port 2
 
 Encoder Port 2
 "OR" odometry encoder
+
+
+Octoquad
+4: odometry right
+5: odometry center
+6: odometry left
