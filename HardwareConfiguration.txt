@@ -7,6 +7,8 @@ Name on config
 CONFIG
 
 CONTROL HUB
+I2C Bus 3: Octoquad
+
 Motor Port 0
 Front Left Wheel (Motor #0)
 GoBilda 5202 | 312 RPM
