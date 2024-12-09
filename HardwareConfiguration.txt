@@ -39,14 +39,17 @@ BR Encoder
 
 EXPANSION HUB
 
-Encoder Port 2
-"OP" odometry encoder
+Port 0: Rotation Slides Extension
+Encoder Port 0: Rotation Slides Extension encoder
 
-Encoder Port 2
-"OL" odometry encoder
+Port 1: Slides Rotation
+Encoder Port 1: Slides Rotation
 
-Encoder Port 2
-"OR" odometry encoder
+Port 2: Right Vertical Slide Motor
+Encodor Port 2: Right Vertical Slide Motor
+
+Port 3: Left Vertical Slide Motor
+Encoder Port 3: Left Vertical Slide Motor
 
 
 Octoquad
