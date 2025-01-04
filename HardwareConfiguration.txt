@@ -24,14 +24,14 @@ Encoder Port 1
 FR Encoder
 
 Motor Port 2
-Back Left Wheel (Motor #2)
+Back Left Wheel (Motor #2) [wire connection inverted]
 GoBilda 5202 | 312 RPM
 
 Encoder Port 2
 BL Encoder
 
 Motor Port 3
-Back Right Wheel (Motor #3)
+Back Right Wheel (Motor #3) [wire connection inverted]
 GoBilda 5203 | 312 RPM
 
 Encoder Port 3
@@ -51,6 +51,8 @@ Encodor Port 2: Right Vertical Slide Motor
 Port 3: Left Vertical Slide Motor
 Encoder Port 3: Left Vertical Slide Motor
 
+
+Encoder Port 0: Grabber
 
 Octoquad
 4: odometry right
