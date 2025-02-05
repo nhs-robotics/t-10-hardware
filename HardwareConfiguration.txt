@@ -51,6 +51,10 @@ Encodor Port 2: Right Vertical Slide Motor
 Port 3: Left Vertical Slide Motor
 Encoder Port 3: Left Vertical Slide Motor
 
+Servo Port 0: Claw Rotate
+Servo Port 1: Claw Twist
+Servo Port 2: Claw Open
+
 
 Encoder Port 0: Grabber
 
