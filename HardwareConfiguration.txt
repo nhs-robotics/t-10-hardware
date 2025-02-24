@@ -7,6 +7,7 @@ Name on config
 CONFIG
 
 CONTROL HUB
+I2C Bus 1: IMU
 I2C Bus 3: Octoquad
 
 Motor Port 0
