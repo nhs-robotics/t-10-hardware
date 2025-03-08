@@ -7,56 +7,50 @@ Name on config
 CONFIG
 
 CONTROL HUB
-I2C Bus 1: IMU
-I2C Bus 3: Octoquad
 
-Motor Port 0
+Motor Port 0: "FL"
 Front Left Wheel (Motor #0)
 GoBilda 5202 | 312 RPM
 
 Encoder Port 0
 FL Encoder
 
-Motor Port 1
+Motor Port 1: "FR"
 Front Right Wheel (Motor #1)
 GoBilda 5202 | 312 RPM
 
 Encoder Port 1
 FR Encoder
 
-Motor Port 2
+Motor Port 2: "BL"
 Back Left Wheel (Motor #2) [wire connection inverted]
 GoBilda 5202 | 312 RPM
 
 Encoder Port 2
 BL Encoder
 
-Motor Port 3
+Motor Port 3: "BR"
 Back Right Wheel (Motor #3) [wire connection inverted]
 GoBilda 5203 | 312 RPM
 
 Encoder Port 3
 BR Encoder
 
+I2C Port 2: GoBuilda Pinpoint "PinPoint"
+
 EXPANSION HUB
 
-Port 0: Rotation Slides Extension
+Port 0: "ArmExtension"
 Encoder Port 0: Rotation Slides Extension encoder
 
-Port 1: Slides Rotation
+Port 1: "ArmRotation"
 Encoder Port 1: Slides Rotation
 
-Port 2: Right Vertical Slide Motor
+Port 2: "LiftRight"
 Encodor Port 2: Right Vertical Slide Motor
 
-Port 3: Left Vertical Slide Motor
+Port 3: "LiftLeft"
 Encoder Port 3: Left Vertical Slide Motor
 
-Servo Port 0: Claw Rotate
-Servo Port 1: Claw Twist
-Servo Port 2: Claw Open
-
-Octoquad
-4: odometry right
-5: odometry center
-6: odometry left
+Servo Port 0: "ClawRotate"
+Servo Port 2: "ClawGrip"
